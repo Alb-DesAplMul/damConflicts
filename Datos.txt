@@ -5,18 +5,26 @@ Observaciones: profesor de Entornos de desarrollo de 1º de DAM
 Hobbies: futbol, ver series policiacas, friends, big bang theory...
 
 
-
 Apellidos y Nombre: Mojota Bolaños Joel
 Email: joell@canariaseducacion.es
 Año de nacimiento: 2005
 Observaciones: alumno
 Hobbies: basket, ver anime, el padrino 
 
+
 Apellidos y Nombre: Casimiro Reyes Nauzet
 Email: nauzet928@gmail.com
 Año de nacimiento: 2007
 Observaciones: Estudiante de 1º de DAM
-Hobbies: Coches en general, Rallys, Videojuegos   
+Hobbies: Jugar videojuegos, ver anime, salir con mis amigos y hacer deporte
+Hobbies: Coches en general, Rallys, Videojuegos
+
+
+Apellidos y nombre: Adrián Medina Godoy
+Email: adrianmedinagodoy07@gmail.com
+Año de nacimiento: 2007
+Observaciones: Estudiante de 1º de DAM
+Hobbies: Baloncesto, jojos, Videojuegos.   
 
 
 Apellidos y Nombre: Santana Reyes Adrian
@@ -24,6 +32,39 @@ Email: asanreyg@canariaseducacion.es
 Año de nacimiento: 1978
 Observaciones: tornero-fresador
 Hobbies: futbol, tenis, playa, ... 
+
+
+Apellidos y Nombre: Toledo Aguila Carlos
+Email: asaotoledo729@gmail.com
+Año de nacimiento: 2005
+Observaciones: Estudiante
+Hobbies: futbol , Videojuegos
+
+
+Apellidos y Nombre: Adrián Aguilera Morales
+Email: adrianl@canariaseducacion.es
+Año de nacimiento: 2000
+Observaciones: estudiante de Entornos de desarrollo de 1º de DAM
+Hobbies: fútbol, videojuegos, anime, algún libro si cuadra...
+
+
+Apellidos y Nombre: González Cordero Airam
+Email: airamgonzalez2006@gmail.com
+Año de nacimiento: 2006
+Observaciones: alumno
+Hobbies: Los deportes
+
+Apellidos y Nombre: Diaz Armas Antonio Audrey
+Email: Audrey_diaz_armas@outlook.es
+Año de nacimiento: 2003
+Observaciones: Alumno de Entornos de desarrollo de 1º de DAM
+Hobbies: Jugar videojuegos, ver animes y series
+
+Apellidos y Nombre: Saavedra Cabrera Daniel
+Email: danisaca99@gmail.com
+Año de nacimiento: 1999
+Observaciones: alumno de Entornos de desarrollo de 1º de DAM
+Hobbies: futbol, jugar a videojuegos, comer.
 
 Apellidos y Nombre: Óscar Herrera Suárez
 Email: oscarherrerasuarez21@gmail.com
