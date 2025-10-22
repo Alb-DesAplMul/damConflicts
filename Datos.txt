@@ -16,7 +16,13 @@ Apellidos y Nombre: Casimiro Reyes Nauzet
 Email: nauzet928@gmail.com
 Año de nacimiento: 2007
 Observaciones: Estudiante de 1º de DAM
-Hobbies: Coches en general, Rallys, Videojuegos   
+Hobbies: Coches en general, Rallys, Videojuegos
+
+Apellidos y nombre: Adrián Medina Godoy
+Email: adrianmedinagodoy07@gmail.com
+Año de nacimiento: 2007
+Observaciones: Estudiante de 1º de DAM
+Hobbies: Baloncesto, jojos, Videojuegos.   
 
 
 Apellidos y Nombre: Santana Reyes Adrian
@@ -31,3 +37,10 @@ Email: asaotoledo729@gmail.com
 Año de nacimiento: 2005
 Observaciones: Estudiante
 Hobbies: futbol , Videojuegos
+
+
+Apellidos y Nombre: Adrián Aguilera Morales
+Email: adrianl@canariaseducacion.es
+Año de nacimiento: 2000
+Observaciones: estudiante de Entornos de desarrollo de 1º de DAM
+Hobbies: fútbol, videojuegos, anime, algún libro si cuadra...
