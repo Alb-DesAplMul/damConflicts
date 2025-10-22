@@ -4,12 +4,21 @@ Año de nacimiento: 1973
 Observaciones: profesor de Entornos de desarrollo de 1º de DAM
 Hobbies: futbol, ver series policiacas, friends, big bang theory...
 
-Apellidos y Nombre: Álvarez Cabrera Adonis
-Email: adonisalvarezcabrera07@gmail.com
+
+Apellidos y Nombre: Mojota Bolaños Joel
+Email: joell@canariaseducacion.es
+Año de nacimiento: 2005
+Observaciones: alumno
+Hobbies: basket, ver anime, el padrino 
+
+
+Apellidos y Nombre: Casimiro Reyes Nauzet
+Email: nauzet928@gmail.com
 Año de nacimiento: 2007
 Observaciones: Estudiante de 1º de DAM
 Hobbies: Jugar videojuegos, ver anime, salir con mis amigos y hacer deporte
 Hobbies: Coches en general, Rallys, Videojuegos
+
 
 Apellidos y nombre: Adrián Medina Godoy
 Email: adrianmedinagodoy07@gmail.com
@@ -44,6 +53,12 @@ Email: airamgonzalez2006@gmail.com
 Año de nacimiento: 2006
 Observaciones: alumno
 Hobbies: Los deportes
+
+Apellidos y Nombre: Diaz Armas Antonio Audrey
+Email: Audrey_diaz_armas@outlook.es
+Año de nacimiento: 2003
+Observaciones: Alumno de Entornos de desarrollo de 1º de DAM
+Hobbies: Jugar videojuegos, ver animes y series
 
 Apellidos y Nombre: Saavedra Cabrera Daniel
 Email: danisaca99@gmail.com
