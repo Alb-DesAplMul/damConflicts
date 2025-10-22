@@ -100,3 +100,9 @@ Email: carlosherrerasuarez7@gmail.com
 Año de nacimiento: 2006
 Observaciones: alumno
 Hobbies: Los deportes, videojuegos
+
+Apellidos y Nombre: Mateos Quintana Sergio
+Email: sergiolo20005@gmail.com
+Año de nacimiento: 2005
+Observaciones: Alumno de Entornos de desarrollo de 1º de DAM
+Hobbies: Futbol,Baloncesto,balonmano, deportes de contacto y jugar a juegos de mesa. 
