@@ -89,8 +89,21 @@ Año de nacimiento: 2004
 Observaciones: alumno de Entornos de desarrollo de 1º de DAM
 Hobbies: Dibujar, jugar a videojuegos, coser.
 
+Apellidos y Nombre: YO OTRA VEZ!!! más conocida como María
+Email: anixuamendoza@gmail.com
+Año de nacimiento: 1973
+Observaciones: Estudiante de Entornos de desarrollo de 1º de DAM
+Hobbies: futbol NO, ver series policiacas, friends, big bang theory NO...
+
 Apellidos y Nombre: Herrera Suarez Jesus Carlos
 Email: carlosherrerasuarez7@gmail.com
 Año de nacimiento: 2006
 Observaciones: alumno
 Hobbies: Los deportes, videojuegos
+
+Apellidos y Nombre: Mateos Quintana Sergio
+Email: sergiolo20005@gmail.com
+Año de nacimiento: 2005
+Observaciones: Alumno de Entornos de desarrollo de 1º de DAM
+Hobbies: Futbol,Baloncesto,balonmano, deportes de contacto y jugar a juegos de mesa. 
+
