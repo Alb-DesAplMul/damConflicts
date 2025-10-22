@@ -3,3 +3,9 @@ Email: asanreyl@canariaseducacion.es
 Año de nacimiento: 1973
 Observaciones: profesor de Entornos de desarrollo de 1º de DAM
 Hobbies: futbol, ver series policiacas, friends, big bang theory...
+
+Apellidos y Nombre: Adrián Aguilera Morales
+Email: adrianl@canariaseducacion.es
+Año de nacimiento: 2000
+Observaciones: estudiante de Entornos de desarrollo de 1º de DAM
+Hobbies: fútbol, videojuegos, anime, algún libro si cuadra...
