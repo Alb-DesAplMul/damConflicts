@@ -12,7 +12,11 @@ Año de nacimiento: 2005
 Observaciones: alumno
 Hobbies: basket, ver anime, el padrino 
 
-   
+Apellidos y Nombre: Casimiro Reyes Nauzet
+Email: nauzet928@gmail.com
+Año de nacimiento: 2007
+Observaciones: Estudiante de 1º de DAM
+Hobbies: Coches en general, Rallys, Videojuegos   
 
 
 Apellidos y Nombre: Santana Reyes Adrian
