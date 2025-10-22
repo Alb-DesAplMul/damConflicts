@@ -59,3 +59,9 @@ Email: Audrey_diaz_armas@outlook.es
 Año de nacimiento: 2003
 Observaciones: Alumno de Entornos de desarrollo de 1º de DAM
 Hobbies: Jugar videojuegos, ver animes y series
+
+Apellidos y Nombre: Saavedra Cabrera Daniel
+Email: danisaca99@gmail.com
+Año de nacimiento: 1999
+Observaciones: alumno de Entornos de desarrollo de 1º de DAM
+Hobbies: futbol, jugar a videojuegos, comer.
