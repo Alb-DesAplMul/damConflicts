@@ -7,10 +7,10 @@ Hobbies: futbol, ver series policiacas, friends, big bang theory...
 
 
 Apellidos y Nombre: Mojota Bolaños Joel
-Email: joell@canariaseducacion.es
+Email: joelmojotabolanos@gmail.com
 Año de nacimiento: 2005
 Observaciones: alumno
-Hobbies: basket, ver anime, el padrino 
+Hobbies: astronomia, ver anime, el padrino
 
 Apellidos y Nombre: Casimiro Reyes Nauzet
 Email: nauzet928@gmail.com
@@ -30,3 +30,10 @@ Email: asanreyg@canariaseducacion.es
 Año de nacimiento: 1978
 Observaciones: tornero-fresador
 Hobbies: futbol, tenis, playa, ... 
+
+
+Apellidos y Nombre: Adrián Aguilera Morales
+Email: adrianl@canariaseducacion.es
+Año de nacimiento: 2000
+Observaciones: estudiante de Entornos de desarrollo de 1º de DAM
+Hobbies: fútbol, videojuegos, anime, algún libro si cuadra...
