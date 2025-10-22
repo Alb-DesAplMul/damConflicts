@@ -63,5 +63,4 @@ Apellidos y Nombre: Adonis Álvarez Cabrera
 Email: adonisalvarezcabrera07@gmail.com
 Año de nacimiento: 2007
 Observaciones: Alumno de 1º de DAM
-Hobbies: futbol, jugar a videojuegos, quedar con amigos.
-Hobbies: Los deportes
+Hobbies: futbol, jugar a videojuegos y quedar con amigos cuando se pueda.
