@@ -16,7 +16,6 @@ Apellidos y Nombre: Casimiro Reyes Nauzet
 Email: nauzet928@gmail.com
 Año de nacimiento: 2007
 Observaciones: Estudiante de 1º de DAM
-Hobbies: Jugar videojuegos, ver anime, salir con mis amigos y hacer deporte
 Hobbies: Coches en general, Rallys, Videojuegos
 
 
@@ -95,3 +94,9 @@ Email: anixuamendoza@gmail.com
 Año de nacimiento: 1973
 Observaciones: Estudiante de Entornos de desarrollo de 1º de DAM
 Hobbies: futbol NO, ver series policiacas, friends, big bang theory NO...
+
+Apellidos y Nombre: Herrera Suarez Jesus Carlos
+Email: carlosherrerasuarez7@gmail.com
+Año de nacimiento: 2006
+Observaciones: alumno
+Hobbies: Los deportes, videojuegos
