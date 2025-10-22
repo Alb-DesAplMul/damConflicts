@@ -16,7 +16,14 @@ Apellidos y Nombre: Casimiro Reyes Nauzet
 Email: nauzet928@gmail.com
 Año de nacimiento: 2007
 Observaciones: Estudiante de 1º de DAM
-Hobbies: Coches en general, Rallys, Videojuegos
+Hobbies: Coches en general, Rallys, Videojuegos   
+
+
+Apellidos y Nombre: Santana Reyes Adrian
+Email: asanreyg@canariaseducacion.es
+Año de nacimiento: 1978
+Observaciones: tornero-fresador
+Hobbies: futbol, tenis, playa, ... 
 
 Apellidos y Nombre: González Cordero Airam
 Email: airamgonzalez2006@gmail.com
