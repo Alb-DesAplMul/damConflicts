@@ -32,6 +32,12 @@ Observaciones: estudiante de Entornos de desarrollo de 1º de DAM
 Hobbies: fútbol, videojuegos, anime, algún libro si cuadra...
 
 
+Apellidos y Nombre: González Cordero Airam
+Email: airamgonzalez2006@gmail.com
+Año de nacimiento: 2006
+Observaciones: alumno
+Hobbies: Los deportes
+
 Apellidos y Nombre: María Mendoza
 Email: anixuamendoza@gmail.com
 Año de nacimiento: 1973
