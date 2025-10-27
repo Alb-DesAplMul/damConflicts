@@ -13,4 +13,6 @@
 
 27/10/2025 Carlos David Toledo
 
+
+27/10/2025 adrián aguilera morales
 >>>>>>> 050050b6d558c01b00687c7684d26f5f2e31fc7f
